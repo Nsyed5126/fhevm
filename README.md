@@ -186,3 +186,13 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 <p align="right">
   <a href="#about" > ↑ Back to top </a>
 </p>
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+echo "update1" >> file.txt
+git add file.txt
+git commit -m "First update"
+
+echo "update2" >> file.txt
+git add file.txt
+git commit -m "Second update"
+https://github.com/your-username/your-repo/commits
